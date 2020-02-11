@@ -1,0 +1,2 @@
+# IllustTrainerWindowsSpecial
+イラスト・トレーナーのWindows特化版です。Java版メインで作るためこちらはあまり更新されないでしょう。時間があるときにアップデートできたらなと思います
